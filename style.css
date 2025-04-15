@@ -1,0 +1,38 @@
+.fa-thumbs-up {
+flex-wrap: wrap;
+    color: #8fd3d1;
+    font-size: 50px;
+}
+body{
+    background: #84bdfd
+}
+.table {
+    border: 2px solid #468499;
+
+    border-color: #468499;
+    width:  500px;
+    height: 105px;
+    border-collapse: collapse;
+   
+}
+.table th,
+.table td {
+   
+    
+    border: 2px solid #468499;
+    padding: 8px;
+    text-align: center;
+    font-size: 50px;
+}
+.trophy{
+    color: #075c95;
+    font-size: 50px;
+}
+@font-face {
+    font-family: game;
+    src: url(munro.ttf);
+  }
+  
+  div {
+    font-family: game;
+  }
